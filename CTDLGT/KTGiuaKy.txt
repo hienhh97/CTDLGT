@@ -1,0 +1,3 @@
+bài 1: đệ quy và độ phức tạp tt- định lý thợ
+bài 2: ds liên kết đơn và lk đôi
+bài 3: chuyển đổi biểu thức trung tố sang biểu thức hậu tố (stack)
